@@ -1,4 +1,4 @@
-# CRUD Operations API (.NET 6)
+# CRUD Operations API (.NET 8)
 
 This is a basic ASP.NET Core Web API that performs CRUD operations on a User model using in-memory storage.
 
